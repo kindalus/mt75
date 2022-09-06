@@ -4,7 +4,7 @@
       <div class="grow-0 px-8 py-4 m-4 bg-black bg-opacity-10 rounded-full">
         <img class="h-10" src="/images/logo.png" alt="" />
       </div>
-      <div class="grow" />
+      <div class="grow"></div>
       <div>
         <span class="navigation-link">Link 1</span>
       </div>
